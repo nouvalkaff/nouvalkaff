@@ -7,9 +7,7 @@
 
 - 🔭 Currently building backend systems with **NestJS** & **TypeScript**
 - 🐍 Also messing around with **Python**
-- 🌱 Exploring REST APIs, SOAP/ESB integrations, and cloud (AWS S3)
 - 📍 Indonesia
-- ⚡ Fun fact: I realized I like coding.
 - 🐺 Il Lupi
 
 ### 🛠️ Tech Stack
@@ -27,10 +25,6 @@
 </p>
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nouvalkaff&show_icons=true&theme=tokyonight&hide_border=true" alt="nouvalkaff stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouvalkaff&theme=tokyonight&hide_border=true" alt="nouvalkaff streak" />

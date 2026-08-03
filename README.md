@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nouval</h1>
-<h3 align="center">Backend dev — NestJS/TypeScript main weapon, Python for side quests.</h3>
+<h1 align="center">Hi 👋, I'm M. Nouval Alkaf</h1>
+<h3 align="center">A backend dev.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nouvalkaff&label=Profile%20views&color=0e75b6&style=flat" alt="nouvalkaff" />
 </p>
 
 - 🔭 Currently building backend systems with **NestJS** & **TypeScript**
-- 🐍 Also messing around with **Python** for CLI tools & scripts
+- 🐍 Also messing around with **Python**
 - 🌱 Exploring REST APIs, SOAP/ESB integrations, and cloud (AWS S3)
-- 📍 Based in Jakarta, Indonesia
-- ⚡ Fun fact: I just realized I like coding.
+- 📍 Indonesia
+- ⚡ Fun fact: I realized I like coding.
+- 🐺 Il Lupi
 
 ### 🛠️ Tech Stack
 
@@ -28,7 +29,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nouvalkaff&show_icons=true&theme=tokyonight&hide_border=true" alt="nouvalkaff stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nouvalkaff&show_icons=true&theme=tokyonight&hide_border=true" alt="nouvalkaff stats" />
 </p>
 
 <p align="center">
@@ -36,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouvalkaff&layout=compact&theme=tokyonight&hide_border=true" alt="nouvalkaff top langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nouvalkaff&layout=compact&theme=tokyonight&hide_border=true" alt="nouvalkaff top langs" />
 </p>
 
 ### 📫 Connect with me
